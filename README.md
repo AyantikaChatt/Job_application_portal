@@ -9,5 +9,4 @@ And she can see the status of her application (rejected/ shortlisted) under "My 
 She can look for skills demanded by different recruiters in relevance to her skills & "skills" section suggest the same that any additional skill she need to learn to get the job she desires!
 
 
-# Go through this presentation to get more idea.
-https://docs.google.com/presentation/d/1sPWOFqdM2RwxcdEdNdpdvRRDd2pebHFk/edit?usp=sharing&ouid=102359307897474759097&rtpof=true&sd=true
+
